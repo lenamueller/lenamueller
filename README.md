@@ -1,12 +1,15 @@
 ### Hi there 👋
 
 <img align="right" height="150px" alt="Frog" src="DALL·E 2022-09-27 09.44.38 - a green frog speaking weather prediction in front of weather map.png" />
+
 <br>
 
 - 🔭 I’m currently studying hydrology with a focus on meteorology and data analysis.
 - 🌱 I’m currently learning some machine learning and web development.
 - ⚡ Fun fact: The picture on the right side is made from an AI system (DALL·E)
 -  💬 Contact: [LinkedIn](https://www.linkedin.com/in/lena-marie-m%C3%BCller-054b67227/)
+
+<br>
 
 ---
 
