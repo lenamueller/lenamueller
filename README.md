@@ -4,8 +4,7 @@
 
 <br>
 
-- 🔭 I’m currently studying hydrology with a focus on meteorology and data analysis.
-- 🌱 I’m currently learning some machine learning and web development.
+- 🔭 I’m currently studying hydrology with a focus on meteorology and data analysis and learning some machine learning and web development.
 - ⚡ Fun fact: The picture on the right side is made from an AI system (DALL·E)
 -  💬 Contact: [LinkedIn](https://www.linkedin.com/in/lena-marie-m%C3%BCller-054b67227/)
 
